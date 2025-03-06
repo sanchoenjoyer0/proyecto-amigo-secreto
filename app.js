@@ -38,7 +38,7 @@ function sortearAmigo() {
         //evita continuar si no hay amigos en la lista
         // Verificamos si el array 'amigos' está vacío
     } 
-        let indiceAleatorio = Math.floor(Math.random() * amigos.length);// Generamos un índice aleatorio
+        let indiceAleatorio = Math.floor(Math.random() * amigos.length);// Generamos un índice aleatorio utilizando math.random y con math.floor redondeamos hacia abajo al entero más cercano
         let amigoSorteado = amigos[indiceAleatorio];// Seleccionamos un amigo al azar
         document.getElementById("resultado").innerHTML = `Amigo sorteado: <strong>${amigoSorteado}</strong>`;  //aqui mostramos el amigo sorteado
 
