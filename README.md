@@ -28,4 +28,6 @@ El código implementa las siguientes funciones:
 ## Contribuciones
 Si deseas mejorar este proyecto, por favor realiza un fork y envía un pull request.
 
+## autor
+ alumno de alura latam
 
