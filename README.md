@@ -26,8 +26,6 @@ El código implementa las siguientes funciones:
 ```
 
 ## Contribuciones
-Las contribuciones son bienvenidas. Si deseas mejorar este proyecto, por favor realiza un fork y envía un pull request.
+Si deseas mejorar este proyecto, por favor realiza un fork y envía un pull request.
 
-## Licencia
-Este proyecto se encuentra bajo la licencia MIT.
 
