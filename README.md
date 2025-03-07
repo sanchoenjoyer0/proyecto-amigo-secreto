@@ -30,4 +30,4 @@ Si deseas mejorar este proyecto, por favor realiza un fork y envía un pull requ
 
 ## autor
  alumno de alura latam
-
+Diego gonzalez
